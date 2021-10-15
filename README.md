@@ -15,7 +15,11 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![index](https://user-images.githubusercontent.com/88755473/137534575-45bcb570-803c-498c-acde-3a696b057bb1.png)
+
+<p align="center">
+  <img width="425px" height="640px" src="https://user-images.githubusercontent.com/88755473/137534621-5a3f1e81-f2e4-4012-a098-942e824be5e0.png">
+</p>
 
 ### Links
 
